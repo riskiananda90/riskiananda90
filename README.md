@@ -1,8 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&pause=1000&color=238636&center=true&vCenter=true&width=437&height=84&lines=Hi%2C+Saya+Rizki+Ananda)](https://git.io/typing-svg)
-<a href='https://github.com/Safouene1/support-palestine-banner'>
-  <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
-</a>
-
 <h1 align='center'>
   Rizki Ananda
 </h1>
