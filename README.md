@@ -11,12 +11,12 @@
 ### About Me 👨🏻
 
 - 👨🏻‍💼 My name is `Rizki Ananda`
-- 🏠 Live in `Bandung, Indonesia`
-- 🧍🏻‍♂️ `22` years old
+- 🏠 Live in `Aceh, Indonesia`
+- 🧍🏻‍♂️ `23` years old
 - 🌟 Currently, `TypeScript`, `Adonis`, and `React Router 7` are my favorite tech.
 - 🌏 Languages
   - 🇮🇩 Indonesian
-  - 🇮🇩 Sundanese
+  - ACH Aceh
   - 🇬🇧 English
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
